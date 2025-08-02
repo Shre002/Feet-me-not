@@ -24,7 +24,7 @@ Solving the world's most unnecessary problem- strangers trying on your slippers.
 
 #The Solution (that nobody asked for):
 #Move-away slippers with legs-
-Finally, a solution to the age-old problem of strangers stealing your slippers — that no one actually has.
+Finally, a solution to the age-old problem of strangers trying out your slippers .
 They detect intruders and walk away… because your slippers have trust issues now.Using Bluetooth Low Energy (BLE), the slippers pair with the owner’s smartphone and stay put only when the owner's device is nearby. If another person approaches — they run away.
 
 
